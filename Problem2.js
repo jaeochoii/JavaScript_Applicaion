@@ -9,7 +9,7 @@ let lionMoney = {
 
 // 아래에 코드를 작성해주세요 ~
 
-/*
+/* 정답 코드
 let sum = 0;
 for (let key in lionMoney) {
   sum += lionMoney[key];

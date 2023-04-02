@@ -12,7 +12,7 @@ alert("hello ${Name}"); // ?(답 작성칸)
 
 alert(`hello ${Name}`); // ?(답 작성칸)
 
-/*
+/* 정답 코드
 alert(`hello ${1}`); // 1
 
 alert(`hello ${"Name"}`); // hello Name
