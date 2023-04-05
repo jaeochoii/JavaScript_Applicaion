@@ -1,4 +1,4 @@
-# JavaScript_Applicaion(운영진용)
+# JavaScript_Applicaion
 
 이번 세션시간에는 리액트에서 많이 사용되는 자바스크립트 응용에 대해서 배웠습니다.
 
